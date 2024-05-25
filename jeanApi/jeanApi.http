@@ -1,0 +1,6 @@
+@jeanApi_HostAddress = http://localhost:5168
+
+GET {{jeanApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
